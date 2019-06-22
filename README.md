@@ -1,5 +1,5 @@
 ### FSSgam
-[A simple function for full-subsets multiple regression in ecology with R] (https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4134)
+[A simple function for full-subsets multiple regression in ecology with R](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4134)
 
 Consists of two functions: full.subsets.gam and check.correlations
 
